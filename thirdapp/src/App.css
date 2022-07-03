@@ -1,0 +1,21 @@
+.x:hover
+{
+  
+  transform: scale(1.3);
+  transition: 0.4s ease-out;
+  /* background-color: skyblue; */
+  border: 2px solid orange;
+  border-radius: 2px;
+}
+.x
+{
+    transition: 0.4s ease-in;
+}
+.y
+{
+    background-color:  rgb(156, 70, 20);
+}
+.z
+{
+    background-color: rgb(57, 57, 199);
+}

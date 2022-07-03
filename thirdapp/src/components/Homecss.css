@@ -1,0 +1,263 @@
+.first{
+    background-color: rgb(200, 214, 209);
+}
+.left_home_head{
+    position: relative;
+    left: 10%;
+    top:20%;
+    font-size: 180px;
+}
+.left_home_text1
+{
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    top: 25%;
+    left: 10%;
+}
+.social_media
+{
+    
+    margin-top: 33.7vw;
+   
+}
+.left_home_text2
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    position: relative;
+    top: 25%;
+    left: 70%;
+}
+.left_enhance
+{
+    background-color:rgb(252, 250, 250);
+    position: relative;
+}
+.right_enhance
+{
+    background-color:rgb(252, 250, 250);
+    position: relative;
+}
+.hap
+{
+    transition: 0.4s ease-in;
+    color: rgb(145, 139, 139);
+    position: absolute;
+    left:50%;
+    top:10%
+}
+.sad
+{
+    transition: 0.4s ease-in;
+    position: absolute;
+    left:70%;
+    top:30%
+}
+.ang
+{
+    transition: 0.4s ease-in;
+    color:rgb(99, 95, 95);
+    color: rgb(145, 139, 139);
+    position: absolute;
+    left: 30%;
+    top:80%
+}
+.fea
+{
+    transition: 0.4s ease-in;
+    position: absolute;
+    left: 60%;
+    top:80%
+}
+.guil
+{
+    transition: 0.4s ease-in;
+    position: absolute;
+    left: 80%;
+    top:20%
+}
+.surp
+{
+    transition: 0.4s ease-in;
+    color: rgb(145, 139, 139);
+    position: absolute;
+    left: 15%;
+    top:40%
+}
+.dej
+{
+    transition: 0.4s ease-in;
+    color:rgb(99, 95, 95);
+    position: absolute;
+    left: 5%;
+    top:50%
+}
+.fest{
+    transition: 0.4s ease-in;
+    position: absolute;
+    left: 45%;
+    top:45%
+}
+.greg
+{
+    transition: 0.4s ease-in;
+    position: absolute;
+    left: 15%;
+    top:75%
+}
+.idy{
+    transition: 0.4s ease-in;
+    position: absolute;
+    left: 70%;
+    top:60%
+}
+.hope
+{
+    transition: 0.4s ease-in;
+    color:rgb(99, 95, 95);
+    color: rgb(145, 139, 139);
+    position: absolute;
+    left: 25%;
+    top:15%
+}
+.cheer
+{
+    transition: 0.4s ease-in;
+    position: absolute;
+    left: 25%;
+    top:55%
+}
+.dar
+{
+    transition: 0.4s ease-in;
+    position: absolute;
+    left: 85%;
+    top:80%
+}
+.hear
+{
+    transition: 0.4s ease-in;
+    color: rgb(145, 139, 139);
+    position: absolute;
+    left: 10%;
+    top:85%
+}
+.shy
+{
+    transition: 0.4s ease-in;
+    position: absolute;
+    left: 10%;
+    top:10%
+}
+.sent
+{
+    transition: 0.4s ease-in;
+    position: absolute;
+    left: 40%;
+    top:95%
+}
+.unst
+{
+    transition: 0.4s ease-in;
+    position: absolute;
+    left: 1%;
+    top:2%
+}
+.ten
+{
+    transition: 0.4s ease-in;
+    color: rgb(145, 139, 139);
+    position: absolute;
+    left: 50%;
+    top:55%
+}
+.real{
+    transition: 0.4s ease-in;
+    color:rgb(99, 95, 95);
+    position: absolute;
+    left: 35%;
+    top:25%
+}
+.rese
+{
+    transition: 0.4s ease-in;
+    position: absolute;
+    left: 10%;
+    top:65%
+}
+.pea
+{
+    transition: 0.4s ease-in;
+    color:rgb(99, 95, 95);
+    color: rgb(145, 139, 139);
+    position: absolute;
+    left: 45%;
+    top:70%
+}
+.hap:hover,.sad:hover,.ang:hover,.fea:hover,.guil:hover,.surp:hover,.dej:hover,.fest:hover,.greg:hover,.idy:hover,.hope:hover,.cheer:hover,.dar:hover,.dar:hover,.hear:hover,.shy:hover,.sent:hover,.unst:hover,.ten:hover,.real:hover,.rese:hover,.pea:hover
+{
+    transition: 0.4s ease-out;
+    transform: scale(1.4);
+   
+}
+.overlay{
+	position: absolute;
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+	transition:all  1s ease;
+	background-color: black;
+	opacity: 0;
+	top: 0;
+	left: 0;
+}
+.left{
+	box-shadow: 2px 0px 10px whitesmoke;
+	height: 100%;
+	width: 100%;
+}
+.left_enhance:hover .left{
+   opacity: 0.8;
+}
+.enhance_now
+{
+    position: relative;
+    left: 35%;
+    top:25%
+}
+.q1,.q2,.q3
+{
+    font-family:cursive
+}
+.analyze_right
+{
+    background-color:rgb(252, 250, 250);
+}
+.analyse_overlay{
+	position: absolute;
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+	transition:all  1s ease;
+	background-color: black;
+	opacity: 0;
+	top: 0;
+	left: 0;
+}
+.right
+{
+    box-shadow: 2px 0px 10px whitesmoke;
+	height: 100%;
+	width: 100%;
+}
+.analyse_overlay:hover
+{
+    opacity: 0.8;
+}
+.analyze_heading
+{
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.analyze
+{
+    background-color: #e2e1e4f6;
+}
